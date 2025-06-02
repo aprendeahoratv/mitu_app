@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "725777369891",
+    "project_id": "mituapp",
+    "storage_bucket": "mituapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725777369891:android:3fb34f1f0faaadcc319a96",
+        "android_client_info": {
+          "package_name": "com.example.mitu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725777369891-1pi58dmkbvmkh06187qf9f3g700pe8sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbk7HFIPT4Us4zvH8KwBSwl8kz5lznPgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725777369891-1pi58dmkbvmkh06187qf9f3g700pe8sj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725777369891-bdl49rugp5v9fs1or9t8negqehed8j07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mituApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
